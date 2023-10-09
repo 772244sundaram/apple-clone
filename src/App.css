@@ -12,8 +12,7 @@ body {
   background-color:rgba(255,255,255,0.5);
   position:fixed;
   top:0;
-  left:0;
-  right:0;
+  width:1550px;
   display:flex;
   align-items:center;
   justify-content:center;
@@ -848,8 +847,7 @@ body {
   justify-content:center;
   position:relative;
   top:44px;
-  left:0;
-  right:0;
+  width:1550px;
   height:32px;
   background-color: white;
 }
@@ -869,8 +867,7 @@ body {
 .display {
   position:relative;
   top:58px;
-  left:0;
-  right:0;
+  width: 1550px;;
   height:750px;
   background-color:black;
   text-align:center;
@@ -914,8 +911,7 @@ body {
 }
 .display-2 {
   position: absolute;
-  left:0;
-  right:0;
+  width:1550px;
   height:700px;
   background-color:rgb(245, 244, 244);
   text-align:center;
@@ -940,8 +936,7 @@ body {
 }
 .display-3 {
   top:1480px;
-  left:0;
-  right: 0;
+  width:1550px;
   position:absolute;
   background-color:black;
   height:690px;
@@ -966,8 +961,7 @@ body {
 .display-4 {
   position:absolute;
   top:2170px;
-  left:0;
-  right:0;
+  width:1550px;
   height:590px;
   display:flex;
   background-color: white;
@@ -1036,8 +1030,7 @@ body {
 .display-5 {
   position: absolute;
   top:2760px;
-  left:0;
-  right:0;
+  width:1550px;
   display:flex;
   height:600px;
 }
@@ -1086,8 +1079,7 @@ body {
 .display-6 {
   position: absolute;
   top:3360px;
-  left:0;
-  right:0;
+  width:1550px;
   display:flex;
   height:600px;
 }
@@ -1144,8 +1136,7 @@ body {
   display:flex;
   align-items: center;
   justify-content: center;
-  left:0;
-  right:0;
+  width:1550px;
   background-color: rgb(246, 246, 246);
 }
 .displaydiv {
